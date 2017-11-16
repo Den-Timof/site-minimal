@@ -482,9 +482,9 @@ body {
       -webkit-box-pack: center;
           -ms-flex-pack: center;
               justify-content: center;
-      background-color: #d8c800; }
+      background-color: red; }
       body .section4 .doublearrow img {
-        background-color: #d8c800;
+        background-color: red;
         margin: 150px; }
   body .footer {
     border-top: 1px solid #dedede; }
